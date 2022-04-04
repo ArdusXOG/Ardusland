@@ -124,10 +124,8 @@ while choice=="Y":
         print("COME BACK SOON!")
 
 
-# >>>>
+>>>>
 
-# # WARMUP PROJECT
-# 
 
 # ## War Game!
 
@@ -334,13 +332,7 @@ while status:
         
 
 
-# >>>>> 
 
-# # Project -2
-
-# ## BLACKJACK!!
-
-# In[ ]:
 
 
 
